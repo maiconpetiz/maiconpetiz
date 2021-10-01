@@ -1,4 +1,4 @@
- ## Oi, eu sou o Maicon Petiz e acabei de entrar nesse mundo!
+ ## Oi, eu sou o Maicon Petiz!
 
  <div>
   <a href="https://github.com/maiconpetiz">
